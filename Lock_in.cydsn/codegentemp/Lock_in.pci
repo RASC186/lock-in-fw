@@ -1,0 +1,17 @@
+# Lock_in
+# 2023-06-29 00:41:28Z
+
+dont_use_location BLE -1 -1 0
+dont_use_location p4blecell -1 -1 0
+set_location "ClockGenBlock" CLK_GEN -1 -1 0
+set_io "CY_CPUSS_SWJ_SWCLK_TCLK(0)" iocell 6 7
+set_io "CY_CPUSS_SWJ_SWDIO_TMS(0)" iocell 6 6
+set_io "ADC_INPUT_PIN_0(0)" iocell 10 3
+set_io "\UART:tx(0)\" iocell 5 1
+set_io "\UART:rx(0)\" iocell 5 0
+set_io "L740_PWM_PIN(0)" iocell 6 2
+set_io "L850_PWM_PIN(0)" iocell 6 3
+set_io "ADC_INPUT_PIN_1(0)" iocell 10 4
+set_io "ADC_INPUT_PIN_2(0)" iocell 10 5
+set_io "RED(0)" iocell 0 3
+set_location "\DETECTOR_ADC:SAR\" SARADC -1 -1 0

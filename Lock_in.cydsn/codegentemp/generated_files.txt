@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="us-ascii"?>
+
+<fileSet version="1" anchorPath="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp" xsi:schemaLocation="http://cypress.com/xsd/cypathdictionary cypathdictionary.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://cypress.com/xsd/cypathdictionary">
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\cyfitter_cfg.h" value="HEADER;;;;;" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\cyfitter_sysint_cfg.h" value="HEADER;;;;;Pins and Interrupts" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\cyfitter_sysint_cfg.c" value="SOURCE_C;CortexM0p,CortexM4;;;;Pins and Interrupts" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\cyfitter_cfg.c" value="SOURCE_C;CortexM0p;;;;" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\cymetadata.c" value="SOURCE_C;CortexM0p,CortexM4;;;;" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\cydevice_trm.h" value="HEADER;;;;;" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\cydevicegnu_trm.inc" value="HEADER;;;;;" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\cydevicerv_trm.inc" value="HEADER;;;;;" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\cydeviceiar_trm.inc" value="HEADER;;;;;" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\cyfitter.h" value="HEADER;;;;;" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\cyfitter_gpio.h" value="HEADER;;;;;Pins and Interrupts" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\cyfitter_sysint.h" value="HEADER;;;;;Pins and Interrupts" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\cydisabledsheets.h" value="HEADER;;;;;" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\L740_PWM.c" value="SOURCE_C;CortexM0p,CortexM4;;;;L740_PWM" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\L740_PWM.h" value="HEADER;;;;;L740_PWM" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\DETECTOR_ADC.c" value="SOURCE_C;CortexM0p,CortexM4;;;;DETECTOR_ADC" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\DETECTOR_ADC.h" value="HEADER;;;;;DETECTOR_ADC" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\DETECTOR_ADC_INT.c" value="SOURCE_C;CortexM0p,CortexM4;;;;DETECTOR_ADC" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\DETECTOR_ADC_INIT.c" value="SOURCE_C;CortexM0p,CortexM4;;;;DETECTOR_ADC" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\DETECTOR_ADC_PM.c" value="SOURCE_C;CortexM0p,CortexM4;;;;DETECTOR_ADC" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\ADC_CLK.h" value="HEADER;;;;;ADC_CLK" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\L740_PWM_CLK.h" value="HEADER;;;;;L740_PWM_CLK" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\ADC_DMA.c" value="SOURCE_C;CortexM0p,CortexM4;;;;ADC_DMA" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\ADC_DMA.h" value="HEADER;;;;;ADC_DMA" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\UART.c" value="SOURCE_C;CortexM0p,CortexM4;;;;UART" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\UART.h" value="HEADER;;;;;UART" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\L850_PWM.c" value="SOURCE_C;CortexM0p,CortexM4;;;;L850_PWM" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\L850_PWM.h" value="HEADER;;;;;L850_PWM" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\L850_PWM_CLK.h" value="HEADER;;;;;L850_PWM_CLK" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\TRIGGER_PWM_CLK.h" value="HEADER;;;;;TRIGGER_PWM_CLK" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\SOC_PWM.c" value="SOURCE_C;CortexM0p,CortexM4;;;;SOC_PWM" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\SOC_PWM.h" value="HEADER;;;;;SOC_PWM" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\UART_SCBCLK.h" value="HEADER;;;;;UART_SCBCLK" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\project.h" value="OTHER;;;;;" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\cycodeshareimport.ld" value="OTHER;;;;;" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\cycodeshareexport.ld" value="OTHER;;;;;" />
+  <file name="C:\Users\Ramon\Desktop\git\lock-in-fw\Lock_in.cydsn\codegentemp\cycodeshareimport.scat" value="OTHER;;;;;" />
+</fileSet>
